@@ -1,3 +1,2 @@
-# Karina Aleksandrova
-## Ohjelmisto tuotanto
-### Tässä repossa harjoitellaan githubin käyttöä
+Karina Aleksandrova
+Tässä repossa harjoitellaan Githubin perustoimintoja
