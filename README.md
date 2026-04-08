@@ -1,1 +1,2 @@
-# Hello-World
+Karina Aleksandrova
+Tässä repossa harjoitellaan githubin käyttöä
